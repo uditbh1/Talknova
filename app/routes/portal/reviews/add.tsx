@@ -1,0 +1,82 @@
+import { useActionData } from "@remix-run/react";
+import { redirect, json } from "@remix-run/node";
+import FormView from "./Form";
+import DisplayActionResponse from "~/components/ui/DisplayActionResponse";
+import { getUserFromSession, requireUserSession } from "~/utils/auth.server";
+import { ReviewModel } from "~/models/review";
+
+export async function loader({ request }) {
+  await requireUserSession(request);
+  let user = await getUserFromSession(request);
+  return { user };
+}
+
+export async function action({ request }) {
+  const user = await getUserFromSession(request);
+  if (!user) return redirect('/login');
+
+  const formData = await request.formData();
+  const { name, email, rating, reviewText, isPublished } = Object.fromEntries(formData);
+
+  // Validation
+  if (!name) return json({ messages: ["Name is required."], status: "ERROR" });
+  if (!email) return json({ messages: ["Email is required."], status: "ERROR" });
+  if (!rating) return json({ messages: ["Rating is required."], status: "ERROR" });
+  if (!reviewText) return json({ messages: ["Review text is required."], status: "ERROR" });
+
+  // Validate rating
+  const ratingNum = parseInt(rating);
+  if (ratingNum < 1 || ratingNum > 5) {
+    return json({ messages: ["Rating must be between 1 and 5 stars."], status: "ERROR" });
+  }
+
+  // Validate email format
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(email)) {
+    return json({ messages: ["Please enter a valid email address."], status: "ERROR" });
+  }
+
+  // Save data
+  try {
+    await ReviewModel.create({
+      name: name.trim(),
+      email: email.trim().toLowerCase(),
+      rating: ratingNum,
+      reviewText: reviewText.trim(),
+      isPublished: isPublished === 'on',
+      addedBy: user._id
+    });
+    return redirect('/portal/reviews');
+  } catch (error) {
+    console.error('Error creating review:', error);
+    return json({ messages: ["An error occurred while saving the review."], status: "ERROR" });
+  }
+}
+
+export default function AddReview() {
+  const actionResponse = useActionData();
+
+  return (
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-lg-12">
+          <div className="mb-5">
+            <h3 className="mb-0 text-white">Add Review</h3>
+          </div>
+        </div>
+      </div>
+      <div className="row">
+        <div className="col-lg-12">
+          <div className="card mb-4">
+            <div className="card-body">
+              {actionResponse?.status === "ERROR" && (
+                <DisplayActionResponse actionResponse={actionResponse} />
+              )}
+              <FormView />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

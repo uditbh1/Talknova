@@ -1,0 +1,44 @@
+# User uploads & large archives (prod-only, never in git)
+public/files/
+public/files-notes.zip
+# Dependencies
+node_modules/
+
+# Environment & secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Remix / Vite build output (regenerate with: npm run build)
+build/
+
+# Temp & runtime
+tmp/
+*.log
+logs/
+pids/
+*.pid
+
+# PM2
+.pm2/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Caches
+.cache/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+.npm/
+
+# Backup files
+*.backup
+start.config.cjs.backup
+
+# Test / coverage (if added later)
+coverage/
+.nyc_output/

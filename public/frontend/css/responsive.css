@@ -1,0 +1,1207 @@
+@media screen and (max-width: 1800px) {
+
+
+}
+
+@media screen and (max-width: 1699px) {
+ 
+}
+
+@media screen and (max-width: 1499px) {
+  .banner-container h1 {
+    font-size: 47px;
+}
+.text {
+  font-size: 45px;
+  min-height: 54px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+  padding: 11px 15px;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 100%!important;
+    padding: 0 35px!important;
+}
+.new-banner h1 {
+    font-size: 61px;
+    padding: 0 0 37px;
+}
+.chat-aisearch-list li span {
+    left: 99%;
+}
+}
+
+@media screen and (max-width: 1299px) {
+  .banner-container h1 {
+    font-size: 40px;
+}
+.banner-container h1 {
+  font-size: 35px;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  max-width: 97%!important;
+  padding: 0 !important;
+}
+.text {
+  font-size: 45px;
+  min-height: 68px;
+}
+section.buy-container h4 {
+    font-size: 19px;
+}
+.new-banner h1 {
+    font-size: 63px;
+}
+.choose-container {
+    padding: 75px 15px 60px;
+}
+.chatbot-app {
+    margin: 38px auto;
+    width: 420px;
+}
+.document-btn {
+    padding: 15px 15px;
+    width: 143px;
+    font-size: 17px;
+}
+.radio-btn label {
+    font-size: 13px!important;
+}
+}
+
+@media screen and (max-width: 1169px) {
+  .banner-container {
+    padding: 33px 33px;
+}
+.banner-container h1 {
+  font-size: 33px;
+}
+section.buy-container h4 {
+  padding: 15px;
+  font-size: 24px;
+}
+.buy-container {
+  padding: 39px 15px;
+}
+.text {
+  font-size: 32px;
+  min-height: 47px;
+}
+.new-banner h1 {
+    font-size: 45px;
+}
+.choose-container {
+    padding: 50px 15px 50px;
+}
+.document-btn {
+    padding: 15px 15px;
+    width: 129px;
+    font-size: 17px;
+}
+}
+@media screen and (max-width: 991px) {
+    .buy-container {
+    padding: 0 15px;
+}
+   a.navbar-toggler:hover {
+    color: #fff;
+} 
+  .col-lg-4.cart-rightbar.price {
+    margin: 20px 0 0;
+}
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    filter: invert(1);
+  }
+  a.nav-link {
+    width: 100%;
+    display: block;
+  }
+  ul.navbar-nav {
+    width: 100%;
+  }
+  body.menu-open .collapse {
+    display: block;
+  }
+  div#navbarSupportedContent {
+    margin: 20px 0 0 !important;
+  }
+  .navbar-toggler {
+    background-color: #004729 !important;
+    color: #fff;
+}
+a.nav-link {
+  font-size: 19px;
+  border-bottom: 1px solid #eee;
+  padding: 14px 0;
+}
+.banner-container h1 {
+  font-size: 24px;
+}
+.banner-container {
+  padding: 11px 33px;
+}
+.text {
+  font-size: 25px;
+  min-height: 42px;
+  margin: 0 0 4px;
+}
+footer {
+  padding: 25px 15px 14px;
+}
+.privacy-container {
+  width: 100%;
+  display: inline-block;
+  padding: 27px 15px 8px;
+}
+.inner-banner h1 {
+  padding: 126px 0 !important;
+  font-size: 45px !important;
+}
+    section.home-banner-container {
+        padding: 87px 0;
+    }
+    .home-banner-rightbar h1 {
+    font-size: 33px;
+    margin: 0 0 18px 0;
+}
+.home-banner-rightbar h2 {
+    font-size: 19px;
+    margin: 0 0 18px 0;
+}
+.home-banner-rightbar h3 {
+    font-size: 27px;
+}
+nav.navbar.navbar-expand-lg.navbar-light button.navbar-toggler {
+    display: none;
+}
+header .container {
+    width: 100%!important;
+    padding: 0!important;
+}
+button.navbar-toggler {
+    position: absolute;
+    right: 18px;
+    top: 15px;
+    width: 50px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 40px;
+    z-index: 9;
+}
+div#offcanvasExample {
+    z-index: 9999999;
+}
+.mobile-nav {
+    display: block;
+}
+a.navbar-brand img {
+    width: 72px;
+    margin: 0 0 0 0;
+}
+a.navbar-toggler {
+    position: absolute;
+    right: 18px;
+    top: 18px;
+    width: 50px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 40px;
+    z-index: 9;
+}
+.new-banner {
+    padding: 30px 0;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 97%!important;
+    padding: 0 21px!important;
+}
+.chatbot-app {
+    margin: 38px auto;
+    width: 100%;
+}
+.chatbot-app .nav-pills .nav-link {
+    font-size: 14px;
+    width: 100%;
+    margin: 12px 0;
+    padding: 0;
+}
+.chat-home h2 {
+    font-size: 19px;
+    margin: 0 0 12px;
+}
+.chat-home h4 {
+    font-size: 19px;
+    margin: 0 0 12px;
+}
+.new-banner h1 {
+    font-size: 34px;
+}
+.document-btn {
+    padding: 13px 8px;
+    width: 105px;
+    font-size: 14px;
+}
+.choose-app {
+    margin: 15px auto;
+    width: 100%;
+    height: 661px;
+    padding: 20px 26px;
+}
+section.choose-container h2 {
+    font-size: 34px;
+    margin: 0 0 22px;
+}
+section.choose-container
+.choose-app h3 {
+    font-size: 34px!important;
+}
+
+section.choose-container
+.choose-app h3 {
+    font-size: 25px!important;
+    text-align: center;
+    margin: 0 0 21px!important;
+}
+.choose-app {
+    text-align: center;
+}
+.choose-app a.navbar-brand img {
+    width: 98px;
+    margin: 0 auto 14px;
+}
+.choose-leftbar {
+    padding: 30px 59px!important;
+    width: 100% !important;
+}
+.choose-rightbar {
+    width: 100%;
+    float: right;
+        padding-left: 0!important;
+    padding-top: 0;
+    margin: 0 0 26px;
+}
+.choose-container {
+    padding: 22px 3px 0;
+}
+
+}
+
+@media screen and (max-width: 767px) {
+p.card-text.keditable {
+    font-size: 13px;
+    color: #212529;
+}
+.ai-chat {
+    height: auto !important;
+}
+div#tab-review .blog-post-list {
+    padding-top: 10px !important;
+}
+small.text-muted.mb-0.keditable {
+    color: #212529!important;
+     font-size: 13px;
+}
+
+    .copyright-leftbar {
+    float: left;
+    width: 100%;
+}
+.gd 
+.btn {
+    margin: 0 auto 0 !important;
+}
+  body
+  {
+     font-family: "Open Sans", sans-serif !important;
+  }
+.choose-leftbar {
+padding: 30px 59px!important;
+}
+  a.navbar-toggler {
+    position: absolute;
+    right: 18px;
+    top: 12px;
+    width: 50px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 40px;
+    z-index: 9;
+}
+  .banner-input {
+    width: 100%;
+    margin: 0 0 12px;
+}
+.home-banner {
+    padding: 31px 15px 15px;
+    background: none !important;
+    background-color: #8360d2 !important;
+}
+img.home-bnr-left {
+    display: block;
+}
+.home-banner img {
+    width: 100%;
+    float: right;
+    border-radius: 20px;
+    margin: 0 0 20px;
+}
+.text {
+  font-size: 20px;
+  min-height: 33px;
+  margin: 0 0 4px;
+}
+section.banner-container p br {
+  display: none;
+}
+.banner-input input.form-control {
+  width: 63%;
+  float: left;
+  height: 54px;
+}
+.buy-container {
+  padding: 30px 15px;
+}
+label {
+  margin: 0 0 6px;
+}
+footer {
+    padding:20px 15px 11px;
+    text-align: center;
+}
+.logofooter {
+    margin: auto;
+    width: 185px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+  padding: 7px 15px;
+}
+.document-block p {
+    margin: 0 0 11px;
+    padding: 0;
+    font-size: 16px;
+}
+section.document-container {
+  padding: 19px 15px 28px;
+}
+.inner-banner h1 {
+    padding: 65px 0 !important;
+    font-size: 25px !important;
+    font-weight: 600;
+}
+.privacy-container h3 {
+    font-size: 25px;
+    margin-bottom: 13px;
+    text-align: center;
+}
+section.privacy-container ul li {
+    font-size: 16px;
+    color: #000;
+    text-align: justify;
+}
+.privacy-container {
+    width: 100%;
+    padding: 27px 0 8px;
+}
+section.privacy-container p {
+    font-size: 16px;
+    line-height: 28px;
+    margin: 0 0 15px;
+}
+ #slide-navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 15px;
+    z-index: 99;
+    width: 280px;
+    height: 100%;
+    background-color: #ddd;
+    overflow: auto;
+  }
+  .menu-overlay {
+    display: none;
+    background-color: #000;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    /* IE7 & 8 */
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 49;
+  }
+  .navbar-toggler-icon {
+    width: 1.2em;
+    height: 1.3em;
+}
+.buy-container {
+    padding: 14px 0 8px;
+}
+a.navbar-toggler {
+    position: absolute;
+    right: 18px;
+    top: 12px;
+    width: 50px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 40px;
+    z-index:9;
+}
+.new-banner {
+    padding: 20px 20px;
+}
+.new-banner h1 {
+    font-size: 25px;
+    margin: 0 0 20px;
+    padding: 0 0 18px;
+            font-family: "Open Sans", sans-serif !important;
+            text-align: center;
+            font-weight: 600;
+}
+.document-btn {
+    padding: 12px 20px;
+    width: 31%;
+    margin: 0 0 21px;
+    float: inherit;
+    font-size: 14px;
+    display: inline-block;
+}
+.chatbot-app {
+    box-shadow: rgba(15, 15, 15, 0.16) 0px 5px 40px 0px;
+    margin: 24px auto;
+    width: 420px;
+    border-radius: 10px;
+    height: 661px;
+    position: relative;
+    background-color: #fff;
+}
+.choose-container {
+    padding: 21px 15px 0;
+}
+.choose-app {
+    margin: 21px auto;
+    width: 100%;
+    height: auto;
+    padding: 20px 26px;
+}
+.choose-app h3 {
+    font-size: 25px!important;
+    margin: 9px 0 10px!important;
+}
+.we-block span {
+    font-size: 29px;
+    display: block;
+    margin: 0 0 10px;
+    color: #004729;
+}
+section.choose-container h2 {
+    font-size: 25px;
+    margin: 0 0 13px;
+    text-align: center;
+            font-family: "Open Sans", sans-serif !important;
+}
+.choose-container li {
+    font-size: 19px;
+    color: #212529;
+    position: relative;
+    padding: 0 0 0 0;
+    text-align: center;
+    
+}
+.choose-container li span {
+    width: 23px;
+    height: 27px;
+    left: 0;
+    font-size: 22px;
+    top: 0;
+    right: 0;
+    margin: auto;
+    position: relative;
+}
+.choose-container li strong {
+    width: 100%;
+    display: block;
+    margin: 5px 0px;
+    font-size: 15px;
+}
+.choose-container li p {
+    font-size: 16px;
+    color: #000;
+    text-align: justify;
+}
+.choose-rightbar {
+    padding: 18px 17px!important;
+    margin: 0;
+}
+.mobile-nav {
+    display: block;
+}
+.footerleft p {
+    position: relative;
+    font-size: 14px;
+    padding: 0 0 0 0;
+    margin: 0 0 5px 0;
+}
+.footerleft p .fa {
+    position: relative;
+    left: 0;
+    top: 5px;
+    color: #004729;
+    right: 0;
+    margin: 0 auto 13px;
+    display: block;
+}
+.copyright-leftbar p {
+    font-size: 14px;
+}
+.copyright-leftbar p {
+    font-size: 14px;
+    margin: 0 0 8px;
+}
+footer ul {
+    padding-left: 0;
+    margin: 0 0 0;
+    list-style: none;
+}
+footer h5 {
+    font-size: 16px;
+    margin: 8px 0 10px;
+}
+section.buy-container h4 {
+    padding: 14px;
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif !important;
+    min-height: auto;
+}
+.radio-btn .form-check-input {
+    font-size: 14px !important;
+}
+.buy-container h3 {
+    font-size: 25px;
+    margin: 0 0 16px;
+            font-family: "Open Sans", sans-serif !important;
+}
+.heading-chat-message h3 {
+    font-size: 14px!important;
+    padding: 15px 12px!important;
+}
+.news-post-list .accordion-flush .accordion-item .accordion-button, .accordion-flush .accordion-item .accordion-button.collapsed {
+    font-size: 12px;
+    padding:5px 12px !important
+}
+.chat-aisearch-list li span {
+    position: absolute;
+    left: 98%;
+    top: 1px;
+    display: inline-block;
+    font-size: 10px;
+    color: #000;
+}
+.accordion-button::after {
+    background-size: 17px !important;
+}
+.chat-aisearch-list li a {
+    display: block;
+    padding: 5px 12px 5px 12px;
+    border-radius: 10px;
+    margin: 0 0 10px;
+    font-size: 11px;
+}
+.text-center-mobile 
+{
+  text-align: center !important;
+}
+a.navbar-brand img {
+    width: 72px;
+    margin: 0 0 0 0;
+}
+section.choose-container
+.choose-app h3 {
+    font-size: 25px!important;
+    text-align: center;
+    margin: 0 0 21px!important;
+    font-family: "Open Sans", sans-serif !important;
+}
+i.fas.fa-chevron-right.chevron-arow {
+    position: absolute;
+    right: 0;
+    top: 6px;
+    color: #000;
+}
+.video-watch {
+    height: 186px;
+}
+
+.detail-message-box strong {
+    margin: 0 !important;
+}
+.banner-right {
+    background: none;
+    padding: 0;
+}
+.chatbot-app {
+    margin: 0 auto 18px;
+    width: 100%;
+    height: 100dvh;
+    overflow: scroll;
+}
+.new-banner {
+    padding: 12px 0 8px;
+}
+.choose-leftbar {
+    background: none;
+}
+.choose-leftbar {
+    padding: 0 0!important;
+}
+.choose-container {
+    padding: 0 1px 0;
+}
+.contact-container {
+    padding: 25px 0 33px;;
+}
+.contact-container h3 {
+    font-size: 25px;
+    margin: 0 0 17p
+}
+footer li a {
+    font-size: 14px;
+}
+div#tab-support .ai-chat {
+    height: 326px!important;
+}
+}
+
+@media screen and (max-width: 599px) {
+  a.navbar-brand {
+    margin: 0;
+}
+.inner-banner h1 {
+    padding: 56px 0 !important;
+    font-size: 20px !important;
+}
+.video-watch {
+    height: 178px;
+}
+a.navbar-brand img {
+  width: 72px;
+  margin: 0 0 0 0;
+}
+.banner-container h1 {
+  font-size: 18px;
+}
+section.banner-container p {
+  font-size: 15px;
+}
+.banner-input input.form-control {
+  width: 100%;
+  height: 54px;
+  margin: 0 0 20px;
+}
+a.document-btn.buy-btn {
+  margin: 5px 0 0 0;
+  width: 100%;
+}
+label {
+  font-weight: 500 !important;
+  font-size: 15px !important;
+}
+.copyright-leftbar {
+  float: left;
+  width: 100%;
+  margin: 0 0 5px;
+}
+.copyright-rightbar {
+  float: right;
+  width: 100%;
+  margin: 8px 0 0 0;
+}
+section.privacy-container p {
+  text-align: justify;
+  font-size: 16px;
+}
+.new-banner h1 {
+    text-align: center;
+    font-size: 22px;
+    margin: 0 0 20px;
+    padding: 0 0 18px;
+}
+
+.document-btn {
+    padding: 12px 6px;
+    width: 30%;
+    margin: 0 0 21px;
+    float: inherit;
+    font-size: 12px;
+    display: inline-block;
+}
+.new-banner {
+    padding: 20px 20px 11px;
+}
+.document-btn {
+    padding: 12px 20px;
+    width: 100%;
+    margin: 0 0 14px;
+}
+.ai-chat-messages {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    overflow: scroll;
+}
+.ai-chat {
+    height: 388px;
+}
+.send-box {
+    bottom: 0;
+}
+.chatbot-app {
+    margin: 12px auto 18px;
+    width: 100%;
+    height: 92vh;
+    overflow: scroll;
+}
+.chatbot-app ul#pills-tab {
+    z-index: 9;
+    background-color: #fff;
+}
+.chat-home h2 {
+    font-size: 16px;
+    margin: 0 0 14px;
+}
+.chat-home a.navbar-brand img {
+    width: 60px;
+    margin: 0 0 10px;
+}
+.card.recent-message .card-body strong {
+    font-size: 11px;
+    margin: 0 0 12px 0;
+}
+.card.recent-message {
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0 0 13px;
+}
+.chat-post-detail {
+    width: 100%;
+    display: inline-block;
+    border-top: 1px solid #e5e5e5;
+    padding: 10px 12px;
+}
+.price-box li {
+    margin: 0 0 8px!important;
+    width: 100%!important;
+    font-size: 13px!important;
+    text-align: justify;
+}
+.chat-post-detail p {
+    font-size: 13px;
+}
+i.fas.fa-chevron-right.chevron-arow {
+    position: absolute;
+    right: 2px;
+    top: 16px;
+    color: #000;
+}
+.detail-message-box {
+    display: inline-block;
+    width: auto;
+    font-size: 12px;
+}
+.chat-home {
+    padding: 20px 20px 67px;
+    overflow-y: scroll;
+    height: 80vh;
+}
+.chat-home h4 {
+    font-size: 16px;
+}
+.chat-home input.form-control {
+    font-size: 12px;
+}
+.chatbot-app .nav-pills .nav-link {
+    font-size: 12px;
+    width: 100%;
+    margin: 12px 0;
+    padding: 0 0;
+}
+.banner-right {
+    margin-bottom: 15px;
+}
+.document-btn {
+    padding: 12px 7px;
+    width: 31%;
+    margin: 0 0 11px;
+    float: left;
+    font-size: 13px;
+}
+.choose-container {
+    padding:15px 15px 0;
+}
+.we-block {
+    text-align: center;
+    margin: 0 0 0;
+}
+.we-block h4 {
+    font-size: 20px;
+}
+.we-block p {
+    font-size: 15px;
+}
+.choose-app {
+    margin: 21px auto;
+    width: 100%;
+    height: auto;
+    padding: 20px 26px;
+}
+.choose-app h3 {
+    font-size: 20px!important;
+    margin: 9px 0 10px!important;
+}
+.choose-rightbar {
+    padding: 18px 17px!important;
+}
+section.choose-container h2 {
+    font-size: 22px;
+        margin: 0 0 13px;
+    text-align: center;
+    font-weight: 600;
+}
+section.choose-container
+.choose-app h3 {
+    font-size: 22px!important;
+    text-align: center;
+    margin: 0 0 21px!important;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 600;
+}
+.buy-container h3 {
+    font-size: 22px;
+    margin: 0 0 16px;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 600;
+}
+.choose-container li span {
+    width: 23px;
+    height: 27px;
+    left: 0;
+    font-size: 22px;
+    top: 0;
+    right: 0;
+    margin: auto;
+    position: relative;
+}
+.choose-container li {
+    font-size: 19px;
+    color: #212529;
+    position: relative;
+    padding: 0 11px 0;
+    text-align: center;
+}
+.choose-container li strong {
+    width: 100%;
+    display: block;
+    margin: 5px 0px;
+    font-size: 15px;
+}
+.choose-container li p {
+    font-size: 16px;
+    color: #000;
+    text-align: justify;
+}
+.we-block span {
+    font-size: 29px;
+    display: block;
+    margin: 0 0 10px;
+    color: #004729;
+}
+iframe {
+    border: 0;
+    height: 179px !important;
+}
+.contact-leftbar {
+    margin: 10px 0 0 0;
+}
+section.privacy-container ul li {
+    font-size: 15px;
+    text-align: justify;
+    margin: 0 0 10px 0;
+}
+.banner-right {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+}
+
+@media screen and (max-width: 479px) {
+ .chat-post-detail a p {
+    margin: 0 0 7px !important;
+}   
+ .choose-leftbar {
+    padding: 0 0!important;
+}
+.buy-container h3 {
+    font-size: 20px;
+    margin: 0 0 16px;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 600;
+}
+section.buy-container h4 {
+    padding: 14px;
+    font-size: 13px;
+}
+.choose-app {
+    margin: 8px auto;
+    width: 100%;
+    height: auto;
+    padding: 20px 5px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    padding: 7px 0;
+} 
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 92%!important;
+    padding: 0 0!important;
+}
+section.choose-container
+.choose-app h3 {
+    font-size: 20px!important;
+    margin: 0 0 5px!important;
+}
+.choose-app a.navbar-brand img {
+    width: 85px;
+    margin: 0 auto 4px;
+}
+.we-block span {
+    font-size: 29px;
+    display: block;
+    margin: 0 0 1px;
+    color: #004729;
+}
+.we-block p {
+    font-size: 15px;
+    margin: 0 0 0;
+}
+.we-block h4 {
+    font-size: 15px;
+    margin: 0;
+}
+.document-btn {
+    padding: 12px 4px;
+    width: 31%;
+    margin: 0 0 11px;
+    font-size: 11px;
+}
+  .banner-container h1 {
+    font-size: 15px;
+}
+.banner-container {
+  padding: 11px 15px;
+}
+.banner-input input.form-control {
+  width: 100%;
+  height: 41px;
+  margin: 0 0 15px;
+}
+.price-box h5 {
+  font-size: 16px;
+}
+
+section.document-container {
+  padding: 18px 15px 26px;
+}
+.privacy-container h3 {
+    font-size: 19px;
+    margin-bottom: 12px;
+}
+body .col-lg-12.p-4.mt-4.rounded.billing-form {
+  margin: 0!important;
+}
+.cart-left {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+.cart-img {
+  margin: 0 auto 15px;
+  width: 122px;
+  float: none;
+}
+.cart-left-detail {
+  display: inline-block;
+  padding: 0;
+  position: relative;
+}
+.cart-right {
+  float: right;
+  text-align: center;
+  width: 100%;
+  margin: 5px 0 0 0;
+}
+.cart-leftbar li a {
+  display: block;
+  padding: 4px 0 0;
+  width: 100%;
+}
+i.fas.fa-chevron-right.chevron-arow {
+    position: absolute;
+    right: 2px;
+    top: 6px;
+    color: #000;
+}
+.chatbot-app {
+    margin: 0 auto 0;
+    width: 100%;
+    height: inherit !important;
+    overflow: scroll;
+}
+
+.new-banner h1 {
+    text-align: center;
+    font-size: 20px !important;
+    margin: 0 0 20px;
+    padding: 0 0 18px;
+}
+.video-watch {
+    height: 177px;
+}
+.chat-home h2 {
+    font-size: 13px;
+    margin: 0 0 9px;
+}
+.chat-home a.navbar-brand img {
+    width: 60px;
+    margin: 0 0 3px;
+}
+.card.recent-message .card-body strong {
+    font-size: 13px;
+    margin: 0 0 6px 0;
+}
+.chat-home {
+    padding: 14px 14px 67px;
+    overflow-y: scroll;
+    height: 61vh;
+}
+.new-banner {
+    padding:12px 0 8px;
+}
+.choose-container {
+    padding: 0 1px 0;
+}
+.choose-rightbar {
+    padding: 18px 0px!important;
+}
+.choose-app {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 20px 5px;
+}
+section.choose-container h2 {
+    font-size: 20px;
+    margin: 0 0 4px;
+    text-align: center;
+}
+.choose-container li strong {
+    width: 100%;
+    display: block;
+    margin: 0 0px 4px;
+    font-size: 15px;
+}
+.choose-container li p {
+    font-size: 15px;
+    color: #000;
+    text-align: justify;
+    margin: 0 0 4px;
+}
+.blog-detail {
+    width: 100%;
+    padding: 6px 0;
+}
+.blog-links a {
+    font-size: 10px;
+}
+.entry-title a {
+    font-size: 18px;
+    margin: 0 0 0!important;
+}
+.entry-title h3 {
+    font-size: 18px;
+    margin: 0 0 0!important;
+}
+iframe {
+    border: 0;
+    height: 142px !important;
+}
+.card-body table.table.table-bordered td {
+    font-weight: 300;
+    font-size: 13px;
+}
+.privacy-container {
+    width: 100%;
+    padding: 27px 10px 8px;
+}
+.privacy-container {
+    width: 100%;
+    padding: 19px 12px 8px;
+}
+section.privacy-container p {
+    text-align: justify;
+    font-size: 15px;
+    margin: 0 0 12px;
+}
+.document-block p {
+    margin: 0 0 11px;
+    padding: 0;
+    font-size: 14px;
+}
+.document-block h4 {
+    margin: 0 0 17px;
+    font-size: 20px;
+}
+input.form-control {
+    font-size: 14px;
+}
+.document-block a {
+    color: #ad9807;
+    transition: 0.5s;
+    font-size: 15px;
+}
+.buy-container {
+    padding: 37px 0 8px;
+}
+}
+
+@media screen and (max-width: 430px) {
+iframe {
+    border: 0;
+    height: 140px !important;
+}
+h6.card-title.mb-0.keditable {
+    font-size: 13px !important;
+}
+.ai-chat {
+    padding: 24px 8px 10px !important;
+}
+}

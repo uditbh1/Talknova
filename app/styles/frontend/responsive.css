@@ -1,0 +1,482 @@
+@media screen and (max-width: 1721px) {
+    
+}
+
+@media screen and (max-width: 1490px) {
+   .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1240px !important;
+    padding: 0 !important;
+}
+}
+
+@media screen and (max-width: 1299px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1070px !important;
+        padding: 0 !important;
+    }
+    }
+
+    @media screen and (max-width: 1169px) {
+       
+        .header-right {
+            width: 243px;
+            margin: 9px 0 0 0;
+        }
+        .carousel-caption {
+            margin: 0 0 0 0 !important;
+        }
+        .container {
+            max-width: 1140px!important;
+            padding: 0 28px!important;
+        }
+        .callout {
+            max-height: 80%;
+            right:0;
+            bottom: 50px;
+            font-size: 3.6875rem;
+        }
+        .study-at-container {
+            width: 100%;
+            display: inline-block;
+            margin: -2rem 0 0 0!important;
+        }
+        .best-of-nottingham-container {
+            width: 100%;
+            display: inline-block;
+            padding: 0 0 96px;
+            text-align: center;
+        }
+        footer {
+            padding: 54px 0 0;
+        }
+        .purpose-container p {
+            position: relative;
+            z-index: 999;
+        }
+        .callout {
+            max-height: 80%;
+            right: 0;
+            bottom: 50px;
+            font-size: 3.6875rem;
+            line-height: 66px;
+        }
+        .strategy-banner-container h1 {
+            font-size: 37px;
+        }
+        section.slider-container li h3 {
+            font-size: 15px;
+        }
+        a.nav-link {
+            font-size: 17px;
+            padding: 10px 13px!important;
+            position: relative;
+        }
+        
+    }
+    @media screen and (max-width: 991px) {
+        .navbar-toggler-icon {
+            display: inline-block;
+            width: 1.5em;
+            height: 1.5em;
+            vertical-align: middle;
+            background-image: var(--bs-navbar-toggler-icon-bg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 100%;
+            filter: invert(1);
+        }
+        body.menu-open .collapse {
+            display: block;
+        }
+        div#navbarSupportedContent {
+            margin: 20px 0 0 !important;
+        }
+        a.navbar-brand {
+            color: #7a3f93;
+            font-size: 33px;
+            margin: 9px 0 0;
+            float: right;
+            width: 100%;
+        }
+        a.navbar-brand img {
+            width: 202px;
+            float: left;
+        }
+        li.nav-item {
+            position: relative;
+            margin-right: 0;
+            text-align: left;
+        }
+        button#dropdownMenuButton1 {
+            border: none;
+            background-color: transparent;
+            color: #000;
+            padding: 15px 0!important;
+            font-size: 17px;
+            border-bottom: 1px solid #000;
+            border-radius: 0;
+            width: 100%;
+            text-align: left;
+        }
+        .dropdown-toggle::after {
+         
+            right: 13px;
+            position: absolute;
+            top: 24px;
+        }
+        a.dropdown-item {
+            text-align: left;
+            border: none;
+        }
+        .navbar-nav .dropdown-menu {
+            position: static;
+            border: none;
+        }
+        li.nav-item.hide-mobile {
+            display: none;
+        }
+        a.reservations-btn {
+            padding: 23px 40px;
+            width: 207px;
+            position: relative;
+            margin: 0 0 26px;
+            display: block;
+        }
+        a.logo.hide-desktop {
+            display: block!important;
+            float: left;
+        }
+        button.navbar-toggler {
+            position: absolute;
+            top: 6px;
+            right: 20px;
+            background-color: #004729;
+        }
+        .header-top-rightbar {
+            float: right;
+            margin: 30px 0 0 0;
+        }
+        nav .container {
+            padding: 0;
+            max-width: 100% !important;
+        }
+        a.nav-link {
+            padding: 18px 0!important;
+            border-bottom: 1px solid;
+            font-size: 16px;
+        }
+        .header-right {
+            width: auto;
+            margin: 9px 0 0 0;
+            position: absolute;
+            right: 84px;
+            top: -1px;
+        }
+        body .show-mobile {
+            display: block!important;
+        }
+        a.nav-link:before
+        {
+            display: none;
+        }
+        .carousel-caption h1 {
+            font-size: 35px;
+        }
+        .purpose-container h4 {
+            font-size: 36px;
+            margin: 3rem 0 56px 0;
+        }
+        .employment-list {
+            margin: 0 0 14px;
+        }
+        .employment-block {
+            padding: 32px 34px;
+        }
+        .study-container h3 {
+            font-size: 36px;
+            margin: 4rem 0 4rem 0;
+        }
+        .campus-container {
+            padding: 217px 0 0;
+        }
+        .campus-leftbar {
+         width:100%;
+         padding:56px;
+         margin:0 0 40px;
+        }
+        .caption-text h3 {
+            font-size: 18px;
+        }
+        .best-of-nottingham-container h3 {
+            margin: 3rem 0 3rem 0;
+        }
+        .facebook-feed {
+            margin: 0 0 24px;
+        }
+        .best-of-nottingham-container {
+            padding: 0 0 19px;
+        }
+        .quick-links-container {
+            padding: 96px 0 0;
+        }
+        footer {
+            padding: 28px 0 0;
+        }
+        footer h6 {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 15px 0 14px;
+        }
+
+        .find-course {
+            padding: 24px 48px;
+            margin: -48px 0 0 0;
+        }
+
+        .ask-student-outer {
+            margin: -148px 0 0 0;
+        }
+        .breadcrumb li {
+            font-weight: bold;
+            color: #fff;
+            font-size: 15px;
+        }
+        .news-post {
+            padding: 39px 124px;
+        }
+        .overview-container {
+            padding: 0 0 34px;
+        }
+        .course-highlights {
+            padding: 30px 0;
+        }
+        .overview-container ol.breadcrumb {
+            top: -31px;
+        }
+        .overview-container h2 {
+            font-size: 32px;
+        }
+        .key-facts-block {
+            width: 100%;
+            margin: 24px 0 0;
+            padding: 19px;
+        }
+        .key-facts h3 {
+            font-size: 34px;
+            margin: 0 0 18px;
+        }
+        .course-highlights h3 {
+            font-size: 32px;
+            margin: 0 0 46px 0;
+        }
+        .course-highlights li {
+            font-size: 16px;
+            margin: 0 0 21px;
+        }
+        .gallery-box {
+            margin: -24px 0 0;
+        }
+        .gallery-box h3 {
+            font-size: 32px;
+            margin: 0 0 55px 0;
+        }
+        .gallery-box {
+            margin: -24px 0 0;
+            padding: 48px 24px 0;
+        }
+        .course-container {
+            padding: 18px 27px 33px;
+        }
+        .course-container h3 {
+            font-size: 32px;
+            margin: 0 0 61px 0;
+        }
+        section.chartered-management {
+            padding: 29px 19px;
+        }
+        .chartered-management h3 {      
+            font-size: 32px;
+            margin: 0 0 18px;
+        }
+        .course-careers {
+            padding: 29px 19px;
+        }
+        .course-careers h3 {
+            font-size: 32px;
+            margin: 0 0 45px 0;
+        }
+        .campus-facilities {
+            padding: 29px 16px;
+        }
+        .campus-facilities h3 {
+            font-size: 32px;
+            margin: 0 0 44px 0;
+        }
+        .post-news-content p {
+            height: auto;
+        }
+        .related-courses {
+            padding: 29px 16px;
+        }
+        .related-courses h3 {
+            font-size: 32px;
+            margin: 0 0 53px 0;
+        }
+        .feature-container {
+            padding: 26px 0;
+        }
+        .feature-container h4 {
+            font-size: 32px;
+            margin: 0 0 17px;
+        }
+        .copyright.d-flex.flex-column.flex-sm-row.justify-content-between.py-4.my-4.border-top {
+            padding-bottom: 0!important;
+            margin-bottom: 0!important;
+        }
+        .feedback {
+            width: 100%;
+            font-size: 14px;
+            padding: 20px;
+            position: relative;
+            top: 23px;
+            right: 0;
+        }
+        .navbar-collapse {
+            display: none;
+        }
+        .menu-open .navbar-collapse {
+            display: block;
+        }
+        section.slider-container li {
+            width: 26%;
+            margin: 0 0 20px;
+        }
+        nav.navbar.navbar-expand-lg.navbar-light.top-navbar {
+            width: 100%;
+            position: relative;
+            padding: 0;
+            margin: -30px 0 0;
+        }
+		a.contact-btn {
+    margin: 21px 13px;
+}
+    }
+
+    @media screen and (max-width: 767px) {
+        a.navbar-brand img {
+            width: 208px;
+        }
+        a.navbar-brand strong {
+            display: inline-block;
+            margin: 21px 0 0 10px;
+            font-size: 36px;
+            color: #6d1e61;
+        }
+        .header-top {
+            width: 100%;
+            display: inline-block;
+            padding: 6px 0 6px;
+        }
+        .contact-rightbar p {
+            text-align: justify;
+        }
+        ul.demo-list li {
+            font-weight: 300;
+            margin: 0 0 12px;
+        }
+        .contact-rightbar {
+            display: table;
+            margin: 0 0 20px;
+        }
+        
+        .contact-leftbar h3 {
+            font-size: 35px;
+            line-height: 32px;
+            margin: 0 0 26px;
+        }
+		.banner-rightbar {
+    float: right;
+    width: 100%;
+}
+		.banner-leftbar {
+    padding: 24px 26px 0;
+    width: 100%;
+    float: left;
+}
+		.banner-container {
+    width: 100%;
+    float: left;
+    padding: 20px 0 0;
+}
+		section.banner-container h1 {
+    font-size: 36px;
+}
+		.contact-leftbar iframe.h-100 {
+    height: 380px!important;
+}
+}
+
+@media screen and (max-width: 599px) {
+    .header-top-leftbar img {
+        width: 130px;
+    }
+    .header-top-leftbar a {
+        float: left;
+    }
+    .partners-list img {
+        width: 20%;
+    }
+    a.navbar-brand img {
+        width: 144px;
+        margin: 0 0 0 0;
+    }
+    .content-container {
+        padding: 18px 0 0;
+    }
+    a.navbar-brand strong {
+        margin: 3px 0 0 8px;
+        font-size: 27px;
+    }
+    a.navbar-brand span {
+        font-size: 12px;
+        display: block;
+        line-height: 0;
+        margin: 3px 0 0 11px;
+    }
+    
+    a.navbar-brand {
+        font-size: 33px;
+        margin: 10px 0 0;
+    }
+    a.navbar-brand {
+        color: #7a3f93;
+        font-size: 33px;
+        margin: 10px 0 0;
+        display: inline-block;
+        float: left;
+    }
+    
+    .header-top-rightbar {
+       display: none;
+    }
+    a.wixui-rich-text__text.hide-desktop {
+        margin: 20px 0 0 0;
+    }
+}
+
+
+@media screen and (max-width: 479px) {
+    
+    .safety-box {
+        width: auto;
+        background-color: #dab3d4;
+        font-size: 17px;
+        padding: 14px 15px;
+        border-radius: 5px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: -39px;
+    }
+}
